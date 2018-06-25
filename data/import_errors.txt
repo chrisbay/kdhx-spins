@@ -1,0 +1,1 @@
+[ERROR in row 232462] Data too long for column 'disk_name' at row 1
